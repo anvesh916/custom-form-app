@@ -1,0 +1,675 @@
+{
+    "section-44": {
+        "data": {
+            "1359": 1,
+            "1360": 0,
+            "1361": 3,
+            "1362": 0,
+            "1363": 2,
+            "1364": 2,
+            "1365": 0,
+            "1366": 3,
+            "1367": 2,
+            "1368": 1,
+            "1369": 1,
+            "1370": 2,
+            "1371": 3,
+            "1372": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                false
+            ],
+            "1374": 0,
+            "1375": 1,
+            "1376": 2,
+            "1377": 3,
+            "1378": 1,
+            "1379": 0,
+            "1380": 2,
+            "1381": 0,
+            "1382": 3,
+            "1383": 1,
+            "1384": 1,
+            "1385": 0,
+            "1386": 2,
+            "1387": [
+                false,
+                true,
+                true,
+                true,
+                false,
+                false
+            ],
+            "1389": 3,
+            "1390": 2,
+            "1391": 0,
+            "1392": 1,
+            "1393": 3,
+            "1394": 0,
+            "1395": 3,
+            "1396": 3,
+            "1397": 1,
+            "1398": [
+                false,
+                true,
+                true,
+                false
+            ],
+            "1399": 1,
+            "1400": 2,
+            "1401": 1,
+            "1402": [
+                false,
+                true,
+                true,
+                false,
+                false,
+                true
+            ]
+        },
+        "curQuestion": 1402,
+        "leftTime": {
+            "h": 0,
+            "m": 0,
+            "s": 32
+        },
+        "finished": true,
+        "score": 35,
+        "totalScore": 42
+    },
+    "section-45": {
+        "data": {
+            "1472": 1,
+            "1473": 3,
+            "1474": 2,
+            "1475": 1,
+            "1476": 0,
+            "1477": 3,
+            "1478": 2,
+            "1479": 0,
+            "1480": 1,
+            "1481": 0,
+            "1482": 1,
+            "1483": 1,
+            "1484": 1,
+            "1485": [
+                true,
+                false,
+                true,
+                false,
+                true,
+                false
+            ],
+            "1487": 1,
+            "1488": 2,
+            "1489": 3,
+            "1490": 0,
+            "1491": 0,
+            "1492": 2,
+            "1493": 2,
+            "1494": 1,
+            "1495": 0,
+            "1496": 1,
+            "1497": 1,
+            "1498": 1,
+            "1499": 3,
+            "1500": [
+                true,
+                false,
+                true,
+                false,
+                true,
+                false
+            ],
+            "1502": 1,
+            "1503": 2,
+            "1504": 3,
+            "1505": 0,
+            "1506": 1,
+            "1507": 1,
+            "1508": 1,
+            "1509": 2,
+            "1510": 1,
+            "1511": 0,
+            "1512": 0,
+            "1513": 1,
+            "1514": 0,
+            "1515": [
+                true,
+                true,
+                false,
+                false,
+                false,
+                true
+            ]
+        },
+        "curQuestion": 1515,
+        "leftTime": {
+            "h": 0,
+            "m": 11,
+            "s": 59
+        },
+        "finished": true,
+        "score": 36,
+        "totalScore": 42
+    },
+    "section-54": {
+        "data": {
+            "1405": 0,
+            "1406": 3,
+            "1407": 1,
+            "1408": 2,
+            "1409": 2,
+            "1411": 1,
+            "1412": [
+                2,
+                3
+            ],
+            "1413": 3,
+            "1414": 2,
+            "1415": [
+                3,
+                1
+            ],
+            "1416": 0,
+            "1418": 0,
+            "1419": [
+                3,
+                2
+            ],
+            "1420": 1,
+            "1421": 1,
+            "1422": 0,
+            "1423": 2,
+            "1425": 2,
+            "1426": 1,
+            "1427": 2,
+            "1428": 3,
+            "1429": 0,
+            "1431": 1,
+            "1432": 2,
+            "1433": 1,
+            "1434": [
+                3,
+                0
+            ],
+            "1435": 0,
+            "1436": 2,
+            "1438": 2,
+            "1439": 2,
+            "1440": 2,
+            "1441": 0,
+            "1442": [
+                3,
+                2
+            ],
+            "1443": 1
+        },
+        "curQuestion": 1443,
+        "leftTime": {
+            "h": 0,
+            "m": 11,
+            "s": 9
+        },
+        "finished": true,
+        "score": 31,
+        "totalScore": 34
+    },
+    "section-64": {
+        "data": {},
+        "curQuestion": 1462,
+        "leftTime": {
+            "h": null,
+            "m": null,
+            "s": 0
+        },
+        "finished": true
+    },
+    "section-55": {
+        "data": {
+            "1518": 2,
+            "1519": 1,
+            "1520": 2,
+            "1521": [
+                0,
+                2
+            ],
+            "1522": 3,
+            "1524": 1,
+            "1525": [
+                2,
+                3,
+                0
+            ],
+            "1526": 0,
+            "1527": 1,
+            "1528": 2,
+            "1529": 2,
+            "1531": 2,
+            "1532": 0,
+            "1533": 2,
+            "1534": 1,
+            "1535": 0,
+            "1536": 2,
+            "1538": 2,
+            "1539": [
+                2,
+                3
+            ],
+            "1540": 0,
+            "1541": 0,
+            "1542": 2,
+            "1544": 3,
+            "1860": [
+                0,
+                3
+            ],
+            "1861": 2,
+            "1862": 1,
+            "1863": 1,
+            "1864": 2,
+            "1866": 0,
+            "1867": 0,
+            "1868": 0,
+            "1869": [
+                0,
+                1,
+                1,
+                0,
+                1
+            ],
+            "1870": 3,
+            "1871": 1
+        },
+        "curQuestion": 1871,
+        "leftTime": {
+            "h": 0,
+            "m": 11,
+            "s": 44
+        },
+        "finished": true,
+        "score": 28,
+        "totalScore": 34
+    },
+    "section-46": {
+        "data": {
+            "1556": 1,
+            "1557": 0,
+            "1558": 1,
+            "1559": 1,
+            "1560": 0,
+            "1561": 1,
+            "1562": 0,
+            "1563": 0,
+            "1564": 2,
+            "1565": 3,
+            "1566": 3,
+            "1567": 1,
+            "1568": 1,
+            "1569": [
+                false,
+                true,
+                true,
+                false,
+                true,
+                false
+            ],
+            "1571": 2,
+            "1572": 2,
+            "1573": 3,
+            "1574": 0,
+            "1575": 1,
+            "1576": 1,
+            "1577": 1,
+            "1578": 0,
+            "1579": 0,
+            "1580": 2,
+            "1581": 0,
+            "1582": 1,
+            "1583": 0,
+            "1584": [
+                true,
+                false,
+                true,
+                false,
+                false,
+                true
+            ],
+            "1586": 2,
+            "1587": 0,
+            "1588": 1,
+            "1589": 1,
+            "1590": 2,
+            "1591": 3,
+            "1592": 1,
+            "1593": 1,
+            "1594": 3,
+            "1595": 0,
+            "1596": 3,
+            "1597": 2,
+            "1598": 1,
+            "1599": [
+                true,
+                true,
+                true,
+                false,
+                false,
+                false
+            ]
+        },
+        "curQuestion": 1599,
+        "leftTime": {
+            "h": 0,
+            "m": 0,
+            "s": 0
+        },
+        "finished": true,
+        "score": 33,
+        "totalScore": 42
+    },
+    "section-47": {
+        "data": {
+            "1669": 2,
+            "1670": 0,
+            "1671": 2,
+            "1672": 2,
+            "1673": 2,
+            "1674": 1,
+            "1675": 2,
+            "1676": 3,
+            "1677": 3,
+            "1678": 1,
+            "1679": 3,
+            "1680": 3,
+            "1681": 2,
+            "1682": [
+                true,
+                false,
+                true,
+                false,
+                true,
+                false
+            ],
+            "1684": 1,
+            "1685": 0,
+            "1686": 3,
+            "1687": 3,
+            "1688": 3,
+            "1689": 0,
+            "1690": 1,
+            "1691": 1,
+            "1692": 0,
+            "1693": 1,
+            "1694": 3,
+            "1695": 1,
+            "1696": 0,
+            "1697": [
+                false,
+                true,
+                false,
+                true,
+                true,
+                false
+            ],
+            "1699": 1,
+            "1700": 3,
+            "1701": 3,
+            "1702": 2,
+            "1703": 3,
+            "1704": 0,
+            "1705": 1,
+            "1706": 1,
+            "1707": 2,
+            "1708": 2,
+            "1709": 2,
+            "1710": 2,
+            "1711": [
+                [
+                    true,
+                    false,
+                    false,
+                    false,
+                    true,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    true,
+                    true,
+                    false,
+                    false,
+                    true
+                ]
+            ]
+        },
+        "curQuestion": 1711,
+        "leftTime": {
+            "h": 0,
+            "m": 0,
+            "s": 0
+        },
+        "finished": true,
+        "score": 28,
+        "totalScore": 41
+    },
+    "section-65": {
+        "data": {},
+        "curQuestion": 1546,
+        "leftTime": {
+            "h": null,
+            "m": null,
+            "s": 0
+        },
+        "finished": true
+    },
+    "section-56": {
+        "data": {
+            "1602": 0,
+            "1603": 1,
+            "1604": 0,
+            "1605": 3,
+            "1606": 2,
+            "1608": 2,
+            "1609": [
+                0,
+                3
+            ],
+            "1610": 2,
+            "1611": 1,
+            "1612": 0,
+            "1613": 3,
+            "1615": 1,
+            "1616": 1,
+            "1617": 2,
+            "1618": [
+                1,
+                2
+            ],
+            "1619": 0,
+            "1620": 0,
+            "1622": 1,
+            "1623": 2,
+            "1624": 3,
+            "1625": 2,
+            "1626": 3,
+            "1628": 2,
+            "1629": 2,
+            "1630": 0,
+            "1631": 2,
+            "1632": 0,
+            "1633": 0,
+            "1635": 2,
+            "1636": [
+                1,
+                3
+            ],
+            "1637": 1,
+            "1638": 3,
+            "1639": 2,
+            "1640": 0
+        },
+        "curQuestion": 1640,
+        "leftTime": {
+            "h": 0,
+            "m": 17,
+            "s": 49
+        },
+        "finished": true,
+        "score": 28,
+        "totalScore": 34
+    },
+    "section-66": {
+        "data": {},
+        "curQuestion": 1659,
+        "leftTime": {
+            "h": null,
+            "m": null,
+            "s": 0
+        },
+        "finished": true
+    },
+    "section-48": {
+        "data": {
+            "1750": 1,
+            "1751": 3,
+            "1752": 3,
+            "1753": 0,
+            "1754": 2,
+            "1755": 3,
+            "1756": 3,
+            "1757": 2,
+            "1758": 2,
+            "1759": 0,
+            "1760": 1,
+            "1761": 0,
+            "1762": [
+                [
+                    true,
+                    false,
+                    false,
+                    false,
+                    false,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    true,
+                    false,
+                    true,
+                    false,
+                    false,
+                    false
+                ]
+            ],
+            "1764": 0,
+            "1765": 1,
+            "1766": 3,
+            "1767": 2,
+            "1768": 0,
+            "1769": 1,
+            "1770": 2,
+            "1771": 0,
+            "1772": 2,
+            "1773": 0,
+            "1774": 0,
+            "1775": 1,
+            "1776": 1,
+            "1777": [
+                false,
+                true,
+                true,
+                false,
+                false,
+                true
+            ],
+            "1779": 2,
+            "1780": 2,
+            "1781": 0,
+            "1782": 2,
+            "1783": 2,
+            "1784": 0,
+            "1785": 1,
+            "1786": 3,
+            "1787": 3,
+            "1788": 0,
+            "1789": 2,
+            "1790": 3,
+            "1791": 1,
+            "1792": [
+                true,
+                true,
+                true,
+                false,
+                false,
+                false
+            ]
+        },
+        "curQuestion": 1792,
+        "leftTime": {
+            "h": 0,
+            "m": 4,
+            "s": 26
+        },
+        "finished": true,
+        "score": 33,
+        "totalScore": 41
+    },
+    "section-74": {
+        "data": {
+            "1465": 137,
+            "1467": "The reading states that the ancient mammal R. robustus was a not an active hunter of dinosaurs and also the remains of the psittacosaur found in the stomach was only present because it could have fed on unhatched dinosaurs eggs. However, the professor states that it was actually a hunter and refutes the forementioned statement with three compelling reasons as descibed below.\n\nFirst, the reading states that the Robustus was small and only about a size of a cat. It was smaller than the two meter tall psittacosaur. Considering the huge difference in the size it would not hunted successfully. The professor oppose this claim by stating that the robustus could have hunted the baby pittacosaur rather than a fully grown one and it is feasible for the fully grown hunter which is almost two times larger than its prey to hunt.\n\nSecond, The reading states that the robustus cannot run faster than the psittacosaur due to the position of the legs. The legs of robustus were on the side making the animal difficult to run faster. The professor rejects this statement saying that there is another similar animal \"Tesmanian Devil\" which also has the similar structure of legs and this animal can run faster. So, if this animal can run faster then the robustus can also.\n\nThird, The reading posits that there were no evidence of teeth marks found on the bones found in the Robustus stomach and it could have just simply swallowed the unhatched eggs from the unguarded nest. The professor says that the robustus though have powerful jaws with which they hold their prey, they never used their back tooth to eat the animal. The research shows that the back tooth have no marks of much usage. This suggests that they would have just swallowed the animal rather than chewing.",
+            "1469": "In the modern days technology has changed the lives of many people and they have both the positive and negative effects on the people using it. Children now a days rely mostly on the technology for even the simple tasks and not using much of their cognitive thinking. Technology has a negative effect on children and relying completely on then would make any one lose their creative thinking.\n\nThe technology provides us every thing on the click of a button. Consider the modern school children who find their class projects and assignments using internet and submit them rather trying or solving with own ideas. They search their answers on the internet and directly use the solutions or the material presented online and just copy it. This has a very adverse impact on them since they have not applied any considerable thinking on their assignments, which has limited their thinking ability. In then schools now a days they give assignments to the children in their summer vacation to create some innovative project, So similiarly my son has got one in his school. So, he instead of thinking new ideas about how to create a new project from scratch, Started search for ready made projects in youtube and google. Luckily he found one ready made project online to buy for a small amount of money. Now he got it delivered and submitted it as a project in his school. In this we can clearly see that the amount of needed to be performed by kid to learn new ideas is completely zero and the technology takesover the hard work.\n\nSocial networking has a great impact on the lives of the children. Networking with friends, teachers and relatives is good but with new generation technology in hands like mobile phone its very simpler to access. Children are the easy traps to this as they are fully browsing only on the social networking sites like Facebook, Google plus which just rivet them with videos and photos. These content has not much use but it's just for the purpose of entertainment. In the modern society its easy for the children to access these networking sites by mobile and they continue this on their free time rather than investing on some useful time. So this miss use of the technology has made then more lethargic and sedantry, their cognitive abilities have completely gone down.\n\nIn the conclusion, Technolgogy though it has great use. It has negative impact on the children creative thinking."
+        },
+        "curQuestion": 1469,
+        "leftTime": {
+            "h": null,
+            "m": null,
+            "s": 0
+        },
+        "finished": true,
+        "essays": [
+            "The reading states that the ancient mammal R. robustus was a not an active hunter of dinosaurs and also the remains of the psittacosaur found in the stomach was only present because it could have fed on unhatched dinosaurs eggs. However, the professor states that it was actually a hunter and refutes the forementioned statement with three compelling reasons as descibed below.\n\nFirst, the reading states that the Robustus was small and only about a size of a cat. It was smaller than the two meter tall psittacosaur. Considering the huge difference in the size it would not hunted successfully. The professor oppose this claim by stating that the robustus could have hunted the baby pittacosaur rather than a fully grown one and it is feasible for the fully grown hunter which is almost two times larger than its prey to hunt.\n\nSecond, The reading states that the robustus cannot run faster than the psittacosaur due to the position of the legs. The legs of robustus were on the side making the animal difficult to run faster. The professor rejects this statement saying that there is another similar animal \"Tesmanian Devil\" which also has the similar structure of legs and this animal can run faster. So, if this animal can run faster then the robustus can also.\n\nThird, The reading posits that there were no evidence of teeth marks found on the bones found in the Robustus stomach and it could have just simply swallowed the unhatched eggs from the unguarded nest. The professor says that the robustus though have powerful jaws with which they hold their prey, they never used their back tooth to eat the animal. The research shows that the back tooth have no marks of much usage. This suggests that they would have just swallowed the animal rather than chewing.",
+            "In the modern days technology has changed the lives of many people and they have both the positive and negative effects on the people using it. Children now a days rely mostly on the technology for even the simple tasks and not using much of their cognitive thinking. Technology has a negative effect on children and relying completely on then would make any one lose their creative thinking.\n\nThe technology provides us every thing on the click of a button. Consider the modern school children who find their class projects and assignments using internet and submit them rather trying or solving with own ideas. They search their answers on the internet and directly use the solutions or the material presented online and just copy it. This has a very adverse impact on them since they have not applied any considerable thinking on their assignments, which has limited their thinking ability. In then schools now a days they give assignments to the children in their summer vacation to create some innovative project, So similiarly my son has got one in his school. So, he instead of thinking new ideas about how to create a new project from scratch, Started search for ready made projects in youtube and google. Luckily he found one ready made project online to buy for a small amount of money. Now he got it delivered and submitted it as a project in his school. In this we can clearly see that the amount of needed to be performed by kid to learn new ideas is completely zero and the technology takesover the hard work.\n\nSocial networking has a great impact on the lives of the children. Networking with friends, teachers and relatives is good but with new generation technology in hands like mobile phone its very simpler to access. Children are the easy traps to this as they are fully browsing only on the social networking sites like Facebook, Google plus which just rivet them with videos and photos. These content has not much use but it's just for the purpose of entertainment. In the modern society its easy for the children to access these networking sites by mobile and they continue this on their free time rather than investing on some useful time. So this miss use of the technology has made then more lethargic and sedantry, their cognitive abilities have completely gone down.\n\nIn the conclusion, Technolgogy though it has great use. It has negative impact on the children creative thinking."
+        ]
+    },
+    "section-75": {
+        "data": {
+            "1549": 0
+        },
+        "curQuestion": 1553,
+        "leftTime": {
+            "h": null,
+            "m": null,
+            "s": 0
+        },
+        "finished": true,
+        "essays": [
+            null,
+            null
+        ]
+    },
+    "section-76": {
+        "data": {
+            "1662": 0,
+            "1664": "The reading mentions that there is a decline in the people reading literature. This decline has adverse effects on the public and alos the literature in the future and states three reasons . The professor however casts doubt on the reading, stating that this decline in reading will not affect the culture of the public by mentioning three arguments.\n\nFirts of all, the reading states that the decline in the reading of the literature would hinder people's ability to imagine, empathize and learn the language. The professor refutes this by stating that not only literature which has the benefits but also the other books on science and history have many good creative aspects which would stimulate the same benefit.\n\nSecond, the reading posits that the people are interested into other books like the self-help books and also they are interested to watch television or listen to music rather reading challenging a novel. These entertainment would not have the same benefit as the iterature. The professor opposes this statement stating that music and movies have the most direct form of knowledge which the literature would not have. So other forms of entertainment is are also very important sourses of knowledge.\n\nThird, the reading claims that the decline in the literaure writers is because of the decline in the reading. The publishers are unwilling to invest in the literature books as there are few readers. This has also discouraged the writers and thus decline in the same. The professor rejects this saying that its not the fault of the reader's but rather the writer's fault whom publish the literature books which are intended to be difficult, So the readers would prefer other sources of knowledge. This this is not the fault of the readers.",
+            "1666": "Internet is very useful tool now a days as it provides huge amount of benefits of everyone in the society. People are largely benefited by the availabilty of various options available over the internet for which they dont need to spend much effort doing the same offline. Consider the online doctor consultation or online educational couses available over the internet for any field of study.\n\nFirst of all the availability of doctor consultations over the internet with full time support is the best feature. People dont need to spend much effort travelling to the hospitals and waiting for the doctor's appointment especially the elderly people. They cannot travel for every issue they face and the online consultation eases this for them. In my case last month my grandfather got sick suddenly and he got rashes all over the body along with high fever. We all panicked regarding this and we tried various remedies available with us for the time being as he was reluctant to go to the hospital as he has to travel and wait in the queue. Then when I browsed over the internet and found about the online doctor consultation for 24 hours of any day, I have just booked it and within five minutes a doctor have responded. The consultation was done at the comfort of the home on the video call. Now my grandfather has taken two or three consultations and he is perfectly alright. Thus the internet plays a major role in the welfare of the people by the ability to consult doctors over the internet.\n\nSecondly, for instance the educational learning is a huge opportunity for students over the internet rather than on the classroom lectures. Now students in colleges and schools learn a lot of knowledge about any topic taught in the classes directly through the educational lectures or courses on the internet. Consider a scenario in my life 4 years ago in my engineering college, where I had to take four elective courses in my last semester. I did not have any basics of those electives at that time to attend the classes. Then my professor suggested me to take courses available over the internet to bridge the gap which I had, Then after going through the interactive courses I was able to attend the lectures and seminars effectively. Hence the intenet has a lot of valuable information about the educational courses which helped me a lot.\n\nIn conclusion, it can be inferred that the internet is a great boon to the society. It has valuable information like the educational courses which help students to learn effectively. People can take complete advantage of the benefits of doctor consultation online right at the finger tips."
+        },
+        "curQuestion": 1666,
+        "leftTime": {
+            "h": null,
+            "m": null,
+            "s": 0
+        },
+        "finished": true,
+        "essays": [
+            "The reading mentions that there is a decline in the people reading literature. This decline has adverse effects on the public and alos the literature in the future and states three reasons . The professor however casts doubt on the reading, stating that this decline in reading will not affect the culture of the public by mentioning three arguments.\n\nFirts of all, the reading states that the decline in the reading of the literature would hinder people's ability to imagine, empathize and learn the language. The professor refutes this by stating that not only literature which has the benefits but also the other books on science and history have many good creative aspects which would stimulate the same benefit.\n\nSecond, the reading posits that the people are interested into other books like the self-help books and also they are interested to watch television or listen to music rather reading challenging a novel. These entertainment would not have the same benefit as the iterature. The professor opposes this statement stating that music and movies have the most direct form of knowledge which the literature would not have. So other forms of entertainment is are also very important sourses of knowledge.\n\nThird, the reading claims that the decline in the literaure writers is because of the decline in the reading. The publishers are unwilling to invest in the literature books as there are few readers. This has also discouraged the writers and thus decline in the same. The professor rejects this saying that its not the fault of the reader's but rather the writer's fault whom publish the literature books which are intended to be difficult, So the readers would prefer other sources of knowledge. This this is not the fault of the readers.",
+            "Internet is very useful tool now a days as it provides huge amount of benefits of everyone in the society. People are largely benefited by the availabilty of various options available over the internet for which they dont need to spend much effort doing the same offline. Consider the online doctor consultation or online educational couses available over the internet for any field of study.\n\nFirst of all the availability of doctor consultations over the internet with full time support is the best feature. People dont need to spend much effort travelling to the hospitals and waiting for the doctor's appointment especially the elderly people. They cannot travel for every issue they face and the online consultation eases this for them. In my case last month my grandfather got sick suddenly and he got rashes all over the body along with high fever. We all panicked regarding this and we tried various remedies available with us for the time being as he was reluctant to go to the hospital as he has to travel and wait in the queue. Then when I browsed over the internet and found about the online doctor consultation for 24 hours of any day, I have just booked it and within five minutes a doctor have responded. The consultation was done at the comfort of the home on the video call. Now my grandfather has taken two or three consultations and he is perfectly alright. Thus the internet plays a major role in the welfare of the people by the ability to consult doctors over the internet.\n\nSecondly, for instance the educational learning is a huge opportunity for students over the internet rather than on the classroom lectures. Now students in colleges and schools learn a lot of knowledge about any topic taught in the classes directly through the educational lectures or courses on the internet. Consider a scenario in my life 4 years ago in my engineering college, where I had to take four elective courses in my last semester. I did not have any basics of those electives at that time to attend the classes. Then my professor suggested me to take courses available over the internet to bridge the gap which I had, Then after going through the interactive courses I was able to attend the lectures and seminars effectively. Hence the intenet has a lot of valuable information about the educational courses which helped me a lot.\n\nIn conclusion, it can be inferred that the internet is a great boon to the society. It has valuable information like the educational courses which help students to learn effectively. People can take complete advantage of the benefits of doctor consultation online right at the finger tips."
+        ]
+    }
+}

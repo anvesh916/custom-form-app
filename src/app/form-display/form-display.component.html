@@ -1,0 +1,59 @@
+<div class="container-fluid ">
+
+    <div class="d-flex justify-content-between m-3 ">
+        <div class="p-2 bd-highlight col-4 input-group">
+            <input (change)="onSearch(searchBox.value)" type="text" #searchBox class="form-control" placeholder="Search custom forms..." aria-describedby="Search">
+            <div class="input-group-append" id="Search">
+                <button class="btn btn-info" type="button" (click)="onSearch(searchBox.value)">
+                        <span class="fa fa-search" aria-hidden="true"></span>
+                </button>
+            </div>
+        </div>
+        <div class="p-2 bd-highlight">
+            <button class="btn btn-info" type="button" (click)="onCreateNewForm()">Create</button>
+        </div>
+    </div>
+    <div class="row ">
+        <div class="col">
+            <div class="table-responsive">
+                <table class="table table-bordered table-light table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Form Name</th>
+                            <th scope="col">Created By</th>
+                            <th scope="col">Created On</th>
+                            <th scope="col">Status</th>
+                            <th scope="col-2">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let form of forms; let i = index">
+                            <th scope="row">{{i + 1}}</th>
+                            <td>{{form.name}}</td>
+                            <td>{{form.createdBy}}</td>
+                            <td>{{toDateString(form.createdOn)}}</td>
+                            <td class="">
+                                <p [ngClass]="statusFormatter(form)" class="px-2 float-left shadow-sm rounded-sm text-white">{{form.status}}</p>
+                            </td>
+                            <td class="">
+                                <a routerLink="/Design/{{i+1}}" class="text-info p-2">
+                                    <span class="fa fa-pencil" aria-hidden="true"></span>
+                                </a>
+                                <a routerLink="{{i+1}}" (click)="onView()" class="text-info p-2">
+                                    <span class="fa fa-eye" aria-hidden="true"></span>
+                                </a>
+                                <a class="text-danger p-2" (click)="deleteForm(i)">
+                                    <span class="fa fa-trash-o" aria-hidden="true"></span>
+                                </a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-4  mr-3" *ngIf="showSideContent">
+            <router-outlet (deactivate)="onDeactive()"></router-outlet>
+        </div>
+    </div>
+</div>

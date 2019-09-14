@@ -1,0 +1,37 @@
+<div class="row ">
+    <div class="col-12 mt-3 d-flex justify-content-between align-items-center">
+        <div (click)="backClicked()" class="float-left btn btn-info"><span class="fa fa-arrow-left"></span> Back</div>
+        <div class="row no-glutter">
+            <a (click)="onEdit()" class="cursor-pointer row" *ngIf="!editing; else InplaceEdit">
+                <h5 class="d-flex justify-content-between align-items-center">{{ formName}}
+                </h5> <span class="mx-2 pt-1 fa fa-pencil"></span></a>
+            <ng-template #InplaceEdit>
+                <form class="form-inline">
+                    <div class="form-group mb-2">
+                        <input type="text" #FormName class="form-control form-control-sm" value="{{formName}}" name="formName">
+                    </div>
+                    <div class="form-group mb-2">
+                        <button (click)="onDone(FormName.value)" class="btn btn-info mx-2 btn-sm"><span class="fa fa-check"></span></button>
+                        <button (click)="onCancel()" class="btn btn-danger btn-sm"><span class="fa fa-times"></span></button>
+                    </div>
+                </form>
+                <!-- <div class="col-10">
+                    <input type="text" class="form-control" [(ngModel)]="formName">
+                </div>
+                -->
+
+            </ng-template>
+        </div>
+
+        <div class="float-right btn btn-info dropdown dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button" id="dropdownMenuLink">Add Control</div>
+        <div class="dropdown-menu dropdown-menu-right " aria-labelledby="dropdownMenuLink">
+            <a class="dropdown-item cursor-pointer" (click)="onMenuSelect($event)">Input</a>
+            <a class="dropdown-item cursor-pointer" (click)="onMenuSelect($event)">CheckBox</a>
+            <a class="dropdown-item cursor-pointer" (click)="onMenuSelect($event)">File</a>
+            <a class="dropdown-item cursor-pointer" (click)="onMenuSelect($event)">Date</a>
+            <a class="dropdown-item cursor-pointer" (click)="onMenuSelect($event)">Password</a>
+        </div>
+
+
+    </div>
+</div>

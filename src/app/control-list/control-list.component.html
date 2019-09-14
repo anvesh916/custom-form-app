@@ -1,0 +1,24 @@
+<div class="container-fluid" *ngIf="!dummylink; else createForm">
+    <app-control-cockpit></app-control-cockpit>
+    <hr>
+    <div class="row">
+        <div class="overflow-auto" style="width: 100%;" *ngIf="controls.length !== 0; else noData">
+            <app-control-list-item *ngFor="let control of controls" [controlData]="control"></app-control-list-item>
+        </div>
+        <ng-template #noData>
+            <div class="col-12 ">
+                <div class=" alert alert-outline-secondary alert-dismissible fade show">
+                    <strong>No data! </strong>Add controls to form.
+                    <!-- <button type="button" class="close" data-dismiss="alert">&times;</button> -->
+                </div>
+            </div>
+        </ng-template>
+    </div>
+</div>
+<ng-template #createForm>
+    <div class="jumbotron m-2 bg-transparent">
+        <h1 class="display-5">Create a Custom Form to design here !</h1>
+        <div (click)="onCreateNewForm()" class="btn btn-info my-2">Create</div>
+    </div>
+</ng-template>
+<app-control-edit-item></app-control-edit-item>

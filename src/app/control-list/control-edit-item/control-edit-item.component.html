@@ -1,0 +1,25 @@
+<!-- Modal -->
+<div class="modal fade" #ItemEditDialog id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Edit Form Element</h5>
+            </div>
+            <div class="modal-body">
+                <div class="card bg-white border-secondary">
+                    <div class="card-header">
+                        <input type="text" class="float-left form-control" [(ngModel)]="controlData.controlHeader">
+                    </div>
+                    <div class="card-body">
+                        <input type="text" class="form-control mb-3" [(ngModel)]="controlData.labelName">
+                        <input type="{{controlData.controlType}}" id="{{controlData.Id}}" [ngClass]="controlData.controlType !==  'file' ?  'form-control' : 'form-control-file'" name="{{controlData.labelName }}" [(ngModel)]="controlData.placeholder">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+            </div>
+        </div>
+    </div>
+</div>

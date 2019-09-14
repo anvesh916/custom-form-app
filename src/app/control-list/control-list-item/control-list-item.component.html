@@ -1,0 +1,19 @@
+<div class="customelementcard col-3 float-left">
+    <div class="my-3 card bg-white border-secondary ">
+        <div class="card-header">
+            <h6 class=" float-left col-9  text-truncate">{{controlData.controlHeader.toUpperCase()}}</h6>
+
+            <div class="float-right text-danger col-1 cursor-pointer" (click)="onDelete(index)" aria-label="Edit">
+                <span class="fa fa-trash"></span>
+            </div>
+            <div class="float-right text-primary col-1  cursor-pointer" (click)="onEditControl($event)" aria-label="Edit">
+                <span class="fa fa-edit"></span>
+            </div>
+        </div>
+        <div class="card-body">
+
+            <label class="form-label" for="{{controlData.Id}}">{{controlData.labelName}}:</label>
+            <input type="{{controlData.controlType}}" id="{{controlData.Id}}" [ngClass]="controlData.controlType !==  'file' ?  'form-control' : 'form-control-file'" name="{{controlData.labelName }}" placeholder="{{controlData.placeholder}}">
+        </div>
+    </div>
+</div>
